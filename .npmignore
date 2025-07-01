@@ -1,0 +1,15 @@
+.docs/
+.taskmaster/
+CLAUDE.md
+.git/
+.gitignore
+*.log
+node_modules/
+coverage/
+.nyc_output/
+test/
+tests/
+spec/
+specs/
+examples/
+example/
